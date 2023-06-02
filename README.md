@@ -12,8 +12,9 @@ O "Quiz App" é uma ferramenta valiosa para aprimorar meu conhecimento sobre Flu
 
 
 
- <img align="center" alt="Quiz_App" height="300" width="600" src="https://i.imgur.com/XGsHpMz.png">
- <img align="center" alt="Quiz_App" height="300" width="600" src="https://i.imgur.com/XGsHpMz.png">
+ <img align="center" alt="Quiz_App" height="500" width="300" src="https://i.imgur.com/XGsHpMz.png">
+ <img align="center" alt="Quiz_App" height="500" width="300" src="https://i.imgur.com/XGsHpMz.png">
+ <img align="center" alt="Quiz_App" height="500" width="300" src="https://i.imgur.com/XGsHpMz.png">
 
 ## Getting Started
 
